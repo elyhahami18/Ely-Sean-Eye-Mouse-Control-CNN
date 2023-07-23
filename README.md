@@ -19,6 +19,6 @@ Lastly, the 'Eye-Mouse-Control-Snapshots.ipynb' is the Jupyter Notebook file for
 
 In addition, if the user tilts their head to the left, they may perform a click and if a user tilts their head to the right, they may perform a right click. This adds further functionality for a user to browse the web with their eyes rather than their wrists/hands. 
 
-For an example of a user demonstration using the eye-mouse control system to navigate and 'add to cart' their favorite item on Amazon, please check out slide #4 of the google slides presentation: https://docs.google.com/presentation/d/1WNoLTHfMZlPreAAKZQxeCeXQ5fFtg3-y_nkTj3Gb4zE/edit#slide=id.p. 
+For an example of a user demonstrating using the eye-mouse control system to navigate and 'add to cart' their favorite item on Amazon, please check out slide #4 of the google slides presentation: https://docs.google.com/presentation/d/1WNoLTHfMZlPreAAKZQxeCeXQ5fFtg3-y_nkTj3Gb4zE/edit#slide=id.p. 
 
 The Jupyter Notebook files and the slides presentation contain further detail about the three models' architectures, including data pre-processing and implementation details regarding data augmentation, learning rate schedules,  methods to reduce overfitting, the Haar Cascades/the Viola-Jones algorithm for object detection, activation functions to achieve probability classes, etc. Enjoy!
