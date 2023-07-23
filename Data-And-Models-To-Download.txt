@@ -1,0 +1,10 @@
+﻿Download the data here: https://www.cs.columbia.edu/CAVE/databases/columbia_gaze/
+
+Download each of the three models here: 
+1) Head Position Predictions: https://drive.google.com/file/d/1Xco-Fgd_orfK9aMvxqzYb_yRDlirj5FO/view?usp=sharing
+
+2) Horizontal Gaze Prediction: 
+https://drive.google.com/file/d/1V9ZHi_x7H08tdSHjIbQNL1yVVLQ5RK9E/view?usp=drive_link
+
+3) Vertical Gaze Prediction: https://drive.google.com/file/d/1ocnqJQYkV1nW6LgX4CkVRB5MP-xGJQCC/view?usp=drive_link
+
