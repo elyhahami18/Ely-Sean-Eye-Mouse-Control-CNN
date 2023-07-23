@@ -21,4 +21,4 @@ In addition, if the user tilts their head to the left, they may perform a click 
 
 For an example of a user demonstrating the eye-mouse control system to navigate and 'add to cart' their favorite item on Amazon, please check out slide #4 of the google slides presentation: https://docs.google.com/presentation/d/1WNoLTHfMZlPreAAKZQxeCeXQ5fFtg3-y_nkTj3Gb4zE/edit#slide=id.p. 
 
-The Jupyter Notebook files and the slides presentation contain further details about the three models' architectures, including data pre-processing and implementation details regarding data augmentation, learning rate schedules,  methods to reduce overfitting, the Haar Cascades/the Viola-Jones algorithm for object detection, activation functions to achieve probability classes, etc. Enjoy!
+The Jupyter Notebook files and the slides presentation contain further details about the three models' architectures, including data pre-processing and implementation details regarding data augmentation, learning rate schedules,  methods to reduce overfitting, the Haar Cascades/the Viola-Jones algorithm for object detection, activation functions to achieve probability classes, etc. 
