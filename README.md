@@ -1,5 +1,5 @@
 # Ely-Sean-Eye-Mouse-Control-CNN
-Check out this Google Slides Presentation for more information: https://docs.google.com/presentation/d/1WNoLTHfMZlPreAAKZQxeCeXQ5fFtg3-y_nkTj3Gb4zE/edit#slide=id.p
+Check out this Google Slides Presentation for a user demo & more information: https://docs.google.com/presentation/d/1WNoLTHfMZlPreAAKZQxeCeXQ5fFtg3-y_nkTj3Gb4zE/edit#slide=id.p
 
 This project was completed by Ely Hahami and Sean Wu in July 2023 for the STEMist Hacks summer hackathon. We coded an **eye-mouse control system** that allows users to move their cursor left, right, up, or down by moving their eyes to the desired position. It also enables them to perform click operations via tilting their head. No hands or wrists are involved whatsoever. 
 
