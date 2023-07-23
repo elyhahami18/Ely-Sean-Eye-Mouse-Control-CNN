@@ -7,7 +7,7 @@ This control system has far-ranging applications and has potential to help disab
 
 In terms of technical architecture, this project is done in two main steps: 
 1) we develop three predictive models using CNNs and Deep Learning, which were done in Python, specifically Tensorflow using the Keras API. Each model was trained on thousands of images of ethnically diverse subjects in various head/ eye gaze positions via the Columbia Gaze Dataset, which one can download at this link: https://www.cs.columbia.edu/CAVE/databases/columbia_gaze/
-2) we code a script that via web camera, captures an image of a user every 0.5 seconds, which done in JavaScript. The script then feeds said image into each of the three models, which updates the mouse's coordinates based on the gaze prediction of the user and performs desired clicks when necessary. 
+2) we code a script that via web camera, captures an image of a user every 0.5 seconds, which was done in JavaScript. The script then feeds said image into each of the three models, which updates the mouse's coordinates based on the gaze prediction of the user and performs desired clicks when necessary. 
 
 The 'Head Position Prediction CNN.ipynb' is the Jupyter Notebook file for the CNN (90% validation accuracy) that classifies a user's head position -- whether it is -30 degrees, -15 degrees, 0 degrees, +15 degrees, or +30 degrees, to represent the user's head titlting far-left, moderately-left, straight, moderately-right, and far-right, respectively. 
 
